@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stuti
-- Senior Software Engineer with 5+ years building distributed systems, cloud-native APIs, and data pipelines across healthcare, health insurance, and energy domains.
+- Senior Software Engineer with 15+ years building distributed systems, cloud-native APIs, and data pipelines across healthcare, fintech and energy domains.
 - 👀 I’m interested in Staff/Principal-level engineering challenges
 - 🌱 I’m currently learning LLM integration, vector search, and agentic workflows for real-world document Q&A use cases
 - 💞️ I’m looking to collaborate on distributed systems and AI-native product engineering
